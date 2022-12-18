@@ -1,6 +1,5 @@
 import { Content } from './content';
 
-
 export class NotificationProps {
   recipientId: string;
   content: Content;
